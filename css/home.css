@@ -6,7 +6,7 @@ html {
 body {
     font-family: STFangSong, Helvetica, Arial, Vernada, Tahoma, STXihei, "Microsoft YaHei", "Songti SC", SimSun, Heiti, sans-serif;
     font-size: 18px;
-    margin-bottom: 60px;
+    margin-bottom: 150px;
 }
 
 a {
@@ -174,7 +174,7 @@ li.title:hover {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-	height: 60px;
+	height: 150px;
 	color: #fff;
 	background-color: #FFC0CB;
 }
